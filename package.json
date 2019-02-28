@@ -1,0 +1,12 @@
+{
+  "name": "apng2gif",
+  "version": "1.7.0",
+  "description": "Convert APNG images to GIF",
+  "main": "index.js",
+  "repository": "https://github.com/suchipi/node-apng2gif",
+  "author": "Suchipi",
+  "license": "MIT",
+  "dependencies": {
+    "apng2gif-bin": "1.7.1"
+  }
+}
